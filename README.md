@@ -1,0 +1,2 @@
+# jittor-HunShuiMoYuZhenDeBuDui-StyleandSemanticPicGeneration
+本项目为第三届计图人工智能挑战赛风格及语义引导的风景图片生成赛题的仓库
